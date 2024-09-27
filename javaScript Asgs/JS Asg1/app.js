@@ -3,13 +3,15 @@
 
  alert(`Error! Please enter corrret password`);
 
- document.write(`Error! Please enter corrret password`);
-
- alert('Welcome to JS land \n Happy Cooding!');
-
  alert(`Welcome to JS land`);
 
  alert(`Happy Cooding!`);
 
- console.log(`Hello.... i can run my JS through my web browser's console`);
+           //New Line Methods
+
+ alert('Welcome to JS land \n Happy Cooding!');                     //\n for New Line
+
+ console.log(`Hello.... i can run my JS \n through my web browser's console `);  //\n
+ 
+ document.write("Have a good day! <br> basit ");  //<br> alo if template literal
 
